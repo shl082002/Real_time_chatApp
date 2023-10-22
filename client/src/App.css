@@ -1,0 +1,17 @@
+.scrollbar {
+  &::-webkit-scrollbar {
+    width: 8px;
+  }
+
+  &::-webkit-scrollbar-thumb {
+    background-color: darkgray;
+    border-radius: 10px;
+  }
+
+  &::-webkit-scrollbar-track {
+    background-color: lightgray;
+  }
+}
+.chat-messages {
+  max-width: 35vw;
+}

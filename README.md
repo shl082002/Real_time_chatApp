@@ -11,4 +11,20 @@ Real_time_chatApp  using MEAN stack and real-time power of socket.io
 #moongoose , express
 #mongodb
 
+//---------------------TO RUN PROJECT-------------------------//
+#npm install / npm i                   : in client and server both folders
+#npm run dev                           : to start both client and server 
+//--------------------------NOTE------------------------------//
+#U can create new user or use existing users
+SOME EXISTING USERS ARE---->
+
+#username : SahilVerma
+#password : shl123
+
+#username : kamlesh
+#password : shl123
+
+#username : DemoUser
+#password : shl123
+
 ThankYou
